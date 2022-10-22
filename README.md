@@ -89,12 +89,11 @@ I'm Fatima Masood, a mobile app developer 👨‍💻 working on Flutter, From P
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasood
-&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasood&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
-<br/>  
+<br/>   
 
   
 
