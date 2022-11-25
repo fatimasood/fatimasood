@@ -34,7 +34,7 @@ I'm Fatima Masood, a mobile app developer 👨‍💻 working on Flutter, From P
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Todo app using flutter dart.(https://github.com/fatimasood/ToDOAPp)  
+- 🔭 I’m currently working on Sketching app using flutter dart. 
   
 
 - 🌱 I’m currently learning Flutter and c#.  
