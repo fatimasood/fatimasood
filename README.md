@@ -34,10 +34,10 @@ I'm Fatima Masood, a mobile app developer 👨‍💻 working on Flutter, From P
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Sketching app using flutter dart. 
+- 🔭 I’m currently working on flutter. 
   
 
-- 🌱 I’m currently learning Flutter and c#.  
+- 🌱 I’m currently learning c#.  
   
 
 - ❓ Ask me about anything related to Android, Flutter, C, C#, java, dart and related technologies  
