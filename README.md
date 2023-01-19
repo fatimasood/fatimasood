@@ -35,9 +35,7 @@ I'm Fatima Masood, a mobile app developer 👨‍💻 working on Flutter, From P
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on flutter. 
-  
-
-- 🌱 I’m currently learning c#.  
+   
   
 
 - ❓ Ask me about anything related to Android, Flutter, C, C#, java, dart and related technologies  
