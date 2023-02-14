@@ -37,6 +37,8 @@ I'm Fatima Masood, a mobile app developer 👨‍💻 working on Flutter, From P
 - 🔭 I’m currently working on flutter. 
    
   
+ - 📚 I’m currently learning full stack development. 
+  
 
 - ❓ Ask me about anything related to Android, Flutter, C, C#, java, dart and related technologies  
 
