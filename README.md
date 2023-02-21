@@ -16,12 +16,13 @@
 <a href="https://www.kaggle.com/fatimamughal04" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2300ace0.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/fa_timah.mughal" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/Fatima_Masood/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%23Ef8c00.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a>  
+<a href="https://instagram.com/fa_timah.mughal" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
 
 
 
