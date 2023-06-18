@@ -27,7 +27,7 @@
 
 
 ### Glad to see you here!  
-I'm Fatima Masood, a mobile app developer 👨‍💻 working on Flutter, From Pakistan 🇵🇰
+I'm Fatima Masood, studying Computer Science from Air University👨‍💻 working on Flutter, From Pakistan 🇵🇰
   
   
 
@@ -40,7 +40,7 @@ I'm Fatima Masood, a mobile app developer 👨‍💻 working on Flutter, From P
 - 🔭 I’m currently working on flutter. 
    
   
- - 📚 I’m currently learning full stack development. 
+ - 📚 I’m currently learning Artificial Intelligence. 
   
 
 - ❓ Ask me about anything related to Android, Flutter, C, C#, java, dart and related technologies  
