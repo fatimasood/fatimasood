@@ -1,5 +1,5 @@
 # 👩‍💻 **About Me**  
-🌟 Hi there! I'm **Fatima**, a passionate Flutter Developer and Custom Software Creator with expertise in crafting **responsive, high-performance apps** and **tailored software solutions**. I love diving into new technologies and building innovative products that make a difference.  
+🌟 Hi there! I'm **Fatima**, a passionate Custom Software Creator with expertise in crafting **responsive, high-performance apps** and **tailored software solutions**. I love diving into new technologies and building innovative products that make a difference.  
 
 💡 **What I'm Currently Up To:**  
 🔭 I’m currently working on AI.<br>📚 I’m currently learning Cyber Security.<br>❓ Ask me about anything related to Android, Flutter, C, C#, java, dart and related technologies
