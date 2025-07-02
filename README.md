@@ -41,7 +41,7 @@ Built in Flutter with ❤️
 
 
 - 🔒 [**Smart Helmet – Accident Detection System**]
- Flutter + IoT integrated helmet app that detects sudden impact or falls and sends alerts in emergencies. Designed for bikers’ safety. Flutter + IoT integrated helmet app that detects sudden impact or fall events and sends alerts in emergencies. Designed with bikers' safety in mind.🚴‍♂️
+ Flutter + IoT integrated helmet app that detects sudden impact or falls and sends alerts in emergencies. Designed for bikers’ safety.🚴‍♂️
 
 
 # 💻 Tech Stack:
