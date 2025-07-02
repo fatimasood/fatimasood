@@ -36,7 +36,7 @@ Built in Flutter with ❤️
  A modern platform for Bangladeshi users to organize their education, skills, health & employment data. Uses AI to generate professional CVs with real-time data sync.
 
 
-💡 [**Kiosk Software – Lease Agreement**] 
+- 💡 [**Kiosk Software – Lease Agreement**] 
  A self-service desktop kiosk app that allows users to fill digital lease forms, sign electronically, scan their ID, and instantly print the final agreement — streamlining the full process without needing staff involvement.
 
 
