@@ -3,7 +3,7 @@
 
 💡 **What I'm Currently Up To:**  
 
-💼 I’m currently building **Zaera** – an expense-sharing app for students & roommates  <br> 🔭 Working on **InfoKlub** – a smart resume + data platform for Bangladesh <br>👯 Looking to collaborate on projects  <br>🌱 Currently learning: `AI` <br> 📚 Ask me about anything related to Android, Flutter, C, C#, java, python, dart and related technologies. <br>📫 Reach me at: [thejuniordeve@gmail.com](mailto:thejuniordeve@gmail.com)
+💼 I’m currently building **Zaera** – an expense-sharing app for students & roommates  <br>👯 Looking to collaborate on projects  <br>🌱 Currently learning: `AI` <br> 📚 Ask me about anything related to Android, Flutter, C, C#, C++, java, python, dart and related technologies. <br>📫 Reach me at: [thejuniordeve@gmail.com](mailto:thejuniordeve@gmail.com)
 
 
 ### ✨ Projects I’m Proud Of
