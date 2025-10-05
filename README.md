@@ -16,22 +16,6 @@ A mobile-first expense-sharing app I founded to bring clarity and peace to share
 
 💡 Built from my own experience living in hostels, Zaera is more than just an app — it’s the first product from my startup journey as a solo founder, designer, and developer.
 
-📲 Core Features:
-
-Create & manage shared Groups (like “Flat #302” or “Trip to Skardu”)
-
-Add detailed Expenses with notes & receipts
-
-Smart, customizable bill splitting (equal, %, custom)
-
-Real-time "who owes who" ledger 
-
-Settle Up via cash or online
-
-Friendly reminders so you never need to awkwardly chase payments
-
-Built in Flutter with ❤️
-
 
 - 💡 [**InfoKlub**] 
  A modern platform for Bangladeshi users to organize their education, skills, health & employment data. Uses AI to generate professional CVs with real-time data sync.
