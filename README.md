@@ -1,4 +1,3 @@
-# 👩‍💻 Fatima - Flutter Developer  
 🌟 Hi there! I'm **Fatima**, a passionate Custom Software Developer with expertise in crafting **responsive, high-performance apps** and **tailored software solutions**. I love diving into new technologies and building innovative products that make a difference.  
 
 💡 **What I'm Currently Up To:**  
