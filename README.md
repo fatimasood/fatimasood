@@ -11,9 +11,9 @@
 - 🚀 [**Zaera – Peace over Pennies**]
 
 **My startup. My vision. My solution.**
-A mobile-first expense-sharing app I founded to bring clarity and peace to shared living. It simplifies the stress, confusion, and awkward conversations that come with splitting bills among roommates or friends.
+ A mobile-first expense-sharing app I founded to bring clarity and peace to shared living. It simplifies the stress, confusion, and awkward conversations that come with splitting bills among roommates or friends.
 
-Built from my own experience living in hostels, Zaera is more than just an app — it’s the first product from my startup journey as a solo founder, designer, and developer.
+ Built from my own experience living in hostels, Zaera is more than just an app — it’s the first product from my startup journey as a solo founder, designer, and developer.
 
 
 - 💡 [**InfoKlub**] 
