@@ -2,7 +2,7 @@
 
 💡 **What I'm Currently Up To:**  
 
-💼 I’m currently building **Zaera** – an expense-sharing app for students & roommates  <br>👯 Looking to collaborate on projects  <br>🎓🗞️ Currently learning: `AI` - Pursuing MS in Artificial Intelligence <br> 📚 Ask me about anything related to Android, Flutter, C, C#, C++, java, python, dart and related technologies. <br>📫 Reach me at: [thejuniordeve@gmail.com](mailto:thejuniordeve@gmail.com)
+💼 I’m currently building **Zaera** – an expense-sharing app for students & roommates  <br>👯 Looking to collaborate on projects  <br>🎓 AI Research Graduate Student <br> 📚 Ask me about anything related to Android, Flutter, C, C#, C++, java, python, dart and related technologies. <br>📫 Reach me at: [thejuniordeve@gmail.com](mailto:thejuniordeve@gmail.com)
 
 **Open to: Machine Learning/AI Internships, Research Assistant positions, and freelance Mobile App/Flutter projects.**
 
