@@ -25,8 +25,9 @@ I develop interpretable frameworks for high-stakes medical diagnostics:
 ---
 
 ### 📊 GitHub Stats
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimasood&show_icons=true&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api?username=fatimasood&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fatimasood&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasood&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ### 📬 Let's Collaborate
