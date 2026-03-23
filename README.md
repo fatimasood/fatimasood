@@ -1,6 +1,6 @@
 # Hi there, I'm Fatima 👋 
 
-### 🚀 AI Research Student | Explainable AI (XAI)
+### 🚀 AI Research Student | Explainable AI (XAI) • Quantum AI
 **Bridging the gap between High-Performance Deep Learning and Clinical Trust.**
 
 Currently pursuing my **Master’s in Artificial Intelligence**, specializing in making medical AI transparent and interpretable. Former **Flutter Developer** with a "production-first" mindset.
