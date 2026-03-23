@@ -20,7 +20,9 @@ I develop interpretable frameworks for high-stakes medical diagnostics:
 | **Explainable AI** | `SHAP` • `LIME` • `Integrated Gradients` • `Grad-CAM` |
 | **Deep Learning** | `PyTorch` • `TensorFlow` • `Keras` • `Scikit-Learn` |
 | **Data Science** | `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` |
-| **Mobile Engineering** | `Flutter` • `Dart` • `Firebase` • `Provider/Bloc` • `REST APIs` |
+| **NLP and Transformers** | `BERT` • `HuggingFace Transformers` • `LSTM` • `Text Classification` |
+| **Quantum Machine Learning** | `PennyLane` • `Hybrid Quantum-Classical Models` |
+| **Mobile Engineering** | `Flutter` • `Dart` • `Firebase` • `Provider/Bloc` • `REST APIs` • `Supabase` |
 
 ---
 
@@ -36,4 +38,7 @@ I develop interpretable frameworks for high-stakes medical diagnostics:
 * 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/fatimamasoodfm/) | [Email](mailto:thejuniordeve@gmail.com)
 
 ---
-> *"If a doctor cannot understand why an AI made a decision, the AI has failed."*
+### 🧠 Research Philosophy
+> *"An AI model that cannot explain its reasoning should never make medical decisions."*
+
+>⭐ If you find my work interesting, feel free to explore the repositories or connect for collaboration.
