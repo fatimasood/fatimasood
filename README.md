@@ -41,4 +41,5 @@ I develop interpretable frameworks for high-stakes medical diagnostics:
 ### 🧠 Research Philosophy
 > *"An AI model that cannot explain its reasoning should never make medical decisions."*
 
+---
 >⭐ If you find my work interesting, feel free to explore the repositories or connect for collaboration.
