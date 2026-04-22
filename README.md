@@ -3,11 +3,11 @@
 ### 🚀 AI Research Student | Explainable AI (XAI) • Quantum AI
 **Bridging the gap between High-Performance Deep Learning and Clinical Trust.**
 
-Currently pursuing my **Master’s in Artificial Intelligence**, specializing in making medical AI transparent and interpretable. Former **Flutter Developer** with a "production-first" mindset.
+Currently pursuing my **Master’s in Artificial Intelligence**, specializing in making medical AI transparent and interpretable. Part time **Flutter Developer** with a "production-first" mindset.
 
 ---
 
-### 🧠 Research Focus: "Beyond the Black Box"
+### 🧠 Research Focus: "Beyond the Black Box" and "Quantum AI"
 I develop interpretable frameworks for high-stakes medical diagnostics:
 * **Autism Spectrum Disorder (ASD):** Utilizing XAI to identify early-stage biomarkers.
 * **Chronic Disease (Diabetes):** Enhancing predictive trust using feature attribution methods.
@@ -33,7 +33,7 @@ I develop interpretable frameworks for high-stakes medical diagnostics:
 ---
 
 ### 📬 Let's Collaborate
-* 🔭 **Currently:** Refining XAI models for clinical reliability.
+* 🔭 **Currently:** Refining XAI models for clinical reliability and learn Quantum AI
 * 💬 **Ask me about:** Why your model is a "Black Box" and how we can fix it.
 * 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/fatimamasoodfm/) | [Email](mailto:thejuniordeve@gmail.com)
 
