@@ -52,9 +52,14 @@ I am a **Master’s student in Artificial Intelligence**, specializing in **Expl
 
 ## 📊 GitHub Analytics
 
+### 🛠️ Most Used Languages & Tech Stack
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimasood&show_icons=true&theme=tokyonight&count_private=true" alt="Fatima's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasood&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,dart,flutter,firebase,supabase,postgres,git,docker,visualstudio,gcp" alt="My Tech Stack" />
+</p>
+
+### 📈 Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimasood&theme=tokyonight&area=true" alt="Fatima's Activity Graph" width="100%" />
 </p>
 
 ---
