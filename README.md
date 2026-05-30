@@ -57,11 +57,6 @@ I am a **Master’s student in Artificial Intelligence**, specializing in **Expl
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,dart,flutter,firebase,supabase,postgres,git,docker,visualstudio,gcp" alt="My Tech Stack" />
 </p>
 
-### 📈 Contribution Graph
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimasood&theme=tokyonight&area=true" alt="Fatima's Activity Graph" width="100%" />
-</p>
-
 ---
 
 ## 💬 Let's Collaborate!
