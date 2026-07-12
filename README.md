@@ -6,7 +6,7 @@
   <a href="mailto:thejuniordeve@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### 🚀 AI Researcher & Software Engineer
+### 🚀 AI Researcher | Software Engineer • AI/ML • Flutter
 > *Engineering Explainable AI Systems Where Accuracy Alone Is Not Enough.*
 
 I am a **Master’s student in Artificial Intelligence**, specializing in **Explainable AI (XAI)** and **Quantum Machine Learning**. My core passion lies in breaking down the "black box" of complex deep learning models—specifically for critical healthcare systems and diagnostic transparency. Parallelly, I am an experienced **Flutter Developer** with a production-first mindset for building scalable mobile systems.
@@ -33,10 +33,36 @@ I am a **Master’s student in Artificial Intelligence**, specializing in **Expl
 
 ---
 
+## 📄 Research Publication & Academic Work
+
+### 🧬 Towards Trustworthy Quantum Machine Learning in Clinical Diagnostics
+
+**Research Paper**
+
+> *A Multi-Method Explainability Study of a Hybrid Quantum-Classical Neural Network for Liver Disease Detection*
+
+This research investigates the integration of **Hybrid Quantum-Classical Neural Networks** with **Explainable AI (XAI)** techniques for trustworthy clinical decision support.
+
+The study explores:
+- Hybrid quantum-classical learning architectures using PennyLane and TensorFlow
+- Multi-method explainability analysis using SHAP and Integrated Gradients
+- Feature-level interpretation for healthcare decision transparency
+- Trustworthy AI evaluation for high-stakes medical prediction systems
+
+📄 **ResearchGate Preprint:**  
+https://www.researchgate.net/publication/409094425_Towards_Trustworthy_Quantum_Machine_Learning_in_Clinical_Diagnostics_A_Multi-Method_Explainability_Study_of_a_Hybrid_Quantum-Classical_Neural_Network_for_Liver_Disease_Detection
+
+🔬 **Code Repository:**  
+https://github.com/fatimasood/XAI-Hybrid-Quantum-Liver-Disease-Detection
+
+**Research Area:** Explainable AI • Quantum Machine Learning • Healthcare AI • Trustworthy AI
+
+---
+
 ## 🔬 Featured Projects
 
 ### 🏥 Explainable & Quantum AI (Healthcare)
-* **[XAI Hybrid Quantum Liver Disease Detection](https://github.com/fatimasood/XAI-Hybrid-Quantum-Liver-Disease-Detection):** An explainable hybrid quantum-classical neural network built using PennyLane and TensorFlow, interpreting results via SHAP and Integrated Gradients.
+* **[XAI Hybrid Quantum Liver Disease Detection](https://github.com/fatimasood/XAI-Hybrid-Quantum-Liver-Disease-Detection):** Research-driven hybrid quantum-classical neural network for liver disease prediction, integrating PennyLane, TensorFlow, SHAP, and Integrated Gradients for interpretable healthcare AI. This work is associated with an academic preprint on trustworthy quantum machine learning for clinical diagnostics.
 * **[CNN-Based Early Autism Detection](https://github.com/fatimasood/CNN-Based-Early-Autism-Detection-Using-Facial-Image-Analysis):** Utilizing facial image analysis with advanced CNN architectures (Xception, VGG16) integrated into a reproducible ML pipeline for early ASD biomarkers.
 * **[XAI Diabetes Prediction Engine](https://github.com/fatimasood/XAI-Diabetes-Prediction):** A Stacking Ensemble classifier mapped with LIME to provide transparent, feature-level insights into patient data.
 
