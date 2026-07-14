@@ -9,7 +9,7 @@
 ### 🚀 AI Researcher | Software Engineer • AI/ML • Flutter
 > *Engineering Explainable AI Systems Where Accuracy Alone Is Not Enough.*
 
-I am a **Master’s student in Artificial Intelligence**, specializing in **Explainable AI (XAI)** and **Quantum Machine Learning**. My core passion lies in breaking down the "black box" of complex deep learning models—specifically for critical healthcare systems and diagnostic transparency. Parallelly, I am an experienced **Flutter Developer** with a production-first mindset for building scalable mobile systems.
+I am a **Master’s student in Artificial Intelligence**, specializing in **Explainable AI (XAI)** and **Quantum Machine Learning**. My core passion lies in breaking down the "black box" of complex deep learning models specifically for critical healthcare systems and diagnostic transparency. Parallelly, I am an experienced **Flutter Developer** with a production-first mindset for building scalable mobile systems.
 
 ---
 
@@ -50,7 +50,7 @@ The study explores:
 - Trustworthy AI evaluation for high-stakes medical prediction systems
 
 📄 **ResearchGate Preprint:**  
-https://www.researchgate.net/publication/409094425_Towards_Trustworthy_Quantum_Machine_Learning_in_Clinical_Diagnostics_A_Multi-Method_Explainability_Study_of_a_Hybrid_Quantum-Classical_Neural_Network_for_Liver_Disease_Detection
+https://doi.org/10.13140/RG.2.2.11569.34403
 
 🔬 **Code Repository:**  
 https://github.com/fatimasood/XAI-Hybrid-Quantum-Liver-Disease-Detection
